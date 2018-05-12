@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '7161'
     url: http://www.gutenberg.org/2009/agents/7161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17137#Some-Mooted-Questions-in-Reinforced-Concrete-DesignNo.-1169-Volume-LXX-Dec.-1910
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2005-11-23'
 gutenberg_type: Text
