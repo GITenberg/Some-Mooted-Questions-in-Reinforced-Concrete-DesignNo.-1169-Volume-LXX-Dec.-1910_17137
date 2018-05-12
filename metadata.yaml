@@ -1,0 +1,28 @@
+_repo: Some-Mooted-Questions-in-Reinforced-Concrete-DesignNo.-1169-Volume-LXX-Dec.-1910_17137
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Godfrey, Edward
+    birthdate: 1871
+    gutenberg_agent_id: '7161'
+    url: http://www.gutenberg.org/2009/agents/7161
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2005-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reinforced concrete'
+- !lcsh 'Reinforced concrete -- Design and construction'
+- !lcc 'TH'
+title: "Some Mooted Questions in Reinforced Concrete Design\r\nAmerican Society of\
+  \ Civil Engineers, Transactions, Paper No. 1169, Volume LXX, Dec. 1910"
+url: http://www.gutenberg.org/ebooks/17137
